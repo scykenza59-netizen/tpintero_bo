@@ -9,7 +9,7 @@ from note_rating import rate_note
         (9, "unsuccessful"),
         (10, "acceptable"),
         (11, "good"),
-        (12, "good"),(13, "very good")
+        (12, "good"),(13, "very good"),(14, "veryVery good")
     ])
 def test_note_result(note, expected):
     actual_result = rate_note(note)
