@@ -314,7 +314,31 @@
       <option name="project" value="LOCAL" />
       <updated>1762982964747</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="green - rate_note(15) returns very good">
+      <option name="closed" value="true" />
+      <created>1762983286294</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1762983286294</updated>
+    </task>
+    <task id="LOCAL-00029" summary="blue refec">
+      <option name="closed" value="true" />
+      <created>1762983403782</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762983403782</updated>
+    </task>
+    <task id="LOCAL-00030" summary="red - testing rate_note(16) returns Exelent">
+      <option name="closed" value="true" />
+      <created>1762983548926</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1762983548926</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,7 +364,10 @@
     <MESSAGE value="green - rate_note 14 returns very good" />
     <MESSAGE value="blue refector" />
     <MESSAGE value="red - testing rate_note(15) returns &#10;&quot;veryVery good&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="red - testing rate_note(15) returns &#10;&quot;veryVery good&quot;" />
+    <MESSAGE value="green - rate_note(15) returns very good" />
+    <MESSAGE value="blue refec" />
+    <MESSAGE value="red - testing rate_note(16) returns Exelent" />
+    <option name="LAST_COMMIT_MESSAGE" value="red - testing rate_note(16) returns Exelent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
