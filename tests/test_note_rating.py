@@ -10,10 +10,9 @@ from note_rating import rate_note
         (10, "acceptable"),
         (11, "good"),
         (12, "good"),(13, "very good"),(14, "veryVery good"),
-(15,"veryVery good")
-    ])
+(15,"veryVery good"),
+    (16, "exelent") ])
 def test_note_result(note, expected):
     actual_result = rate_note(note)
     assert actual_result == expected
-def test_rate_note_16_Exelent():
-    assert rate_note(16) == "exelent"
+
