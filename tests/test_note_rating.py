@@ -15,3 +15,5 @@ def test_note_result(note, expected):
     actual_result = rate_note(note)
     assert actual_result == expected
 
+def test_rate_note_13_good():
+    assert rate_note(13) == "good"
