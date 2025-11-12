@@ -15,4 +15,5 @@ from note_rating import rate_note
 def test_note_result(note, expected):
     actual_result = rate_note(note)
     assert actual_result == expected
-
+def test_rate_note_16_Exelent():
+    assert rate_note(16) == "exelent"
