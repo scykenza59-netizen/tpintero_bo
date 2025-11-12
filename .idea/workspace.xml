@@ -154,7 +154,31 @@
       <option name="project" value="LOCAL" />
       <updated>1762976673448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Green - rating 10 returns acceptable">
+      <option name="closed" value="true" />
+      <created>1762977110910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762977110910</updated>
+    </task>
+    <task id="LOCAL-00009" summary="red - test rating 8 returns unsuccessful">
+      <option name="closed" value="true" />
+      <created>1762977172915</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762977172915</updated>
+    </task>
+    <task id="LOCAL-00010" summary="green - rating 8 returns unsuccessful">
+      <option name="closed" value="true" />
+      <created>1762977254112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762977254112</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,7 +189,10 @@
     <MESSAGE value="Green - rating(9) returns unsuccessful" />
     <MESSAGE value="Blue - refactoring" />
     <MESSAGE value="Red - test rating 10 returns acceptable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Red - test rating 10 returns acceptable" />
+    <MESSAGE value="Green - rating 10 returns acceptable" />
+    <MESSAGE value="red - test rating 8 returns unsuccessful" />
+    <MESSAGE value="green - rating 8 returns unsuccessful" />
+    <option name="LAST_COMMIT_MESSAGE" value="green - rating 8 returns unsuccessful" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
