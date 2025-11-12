@@ -202,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762977627651</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="blue refectoring">
+      <option name="closed" value="true" />
+      <created>1762977705374</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762977705374</updated>
+    </task>
+    <task id="LOCAL-00015" summary="red - test rate_12 returns good">
+      <option name="closed" value="true" />
+      <created>1762977897861</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762977897861</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,7 +235,9 @@
     <MESSAGE value="blue - refactoring" />
     <MESSAGE value="red - test rate 7 returns unsuccessful" />
     <MESSAGE value="green - rate 7 returns unsuccessful" />
-    <option name="LAST_COMMIT_MESSAGE" value="green - rate 7 returns unsuccessful" />
+    <MESSAGE value="blue refectoring" />
+    <MESSAGE value="red - test rate_12 returns good" />
+    <option name="LAST_COMMIT_MESSAGE" value="red - test rate_12 returns good" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
